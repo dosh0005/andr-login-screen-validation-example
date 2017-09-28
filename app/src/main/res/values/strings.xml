@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <string name="layout">Login</string>
+    <string name="layoutR">Relative Layout</string>
+    <string name="author">dosh0005</string>
+    <string name="un">Your Username</string>
+    <string name="unAl">Your Algonquinlive Email</string>
+    <string name="pw">Your Password</string>
+    <string name="btnsu">Login</string>
+    <string name="btnfp">Forget Password</string>
+    <string name="cbrm">Remember me</string>
+</resources>
